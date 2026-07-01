@@ -1,0 +1,8 @@
+# Logic Tensor Networks - raciocinio espacial CLEVR-like
+torch>=2.0
+LTNtorch>=0.2.0
+numpy>=1.24
+matplotlib>=3.6
+scikit-learn>=1.2
+# para abrir/executar o notebook
+jupyter
