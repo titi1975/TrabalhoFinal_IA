@@ -215,6 +215,11 @@ jupyter notebook clevr_ltn_spatial.ipynb     # "Run All" — leva ~3 min em CPU
 O notebook gera a cena, treina os predicados, avalia métricas e satAgg, executa as consultas com
 explicações de raciocínio e roda o experimento das 5 execuções, salvando `experiment_results.json`.
 
+Ou alternativamente é possivel realizar a execução do jupyer notebook no ambiente do google colab
+```bash
+https://colab.research.google.com/drive/11cD6DB5BgJK5qiDm3aOze_FJdS-bV63j?usp=sharing
+```
+
 ## Estrutura
 
 ```
